@@ -1,0 +1,40 @@
+body {
+  background: #757474;
+  font-family: 'Titillium Web', sans-serif; }
+
+header {
+  margin-top: 75px;
+  background: #f3eaea;
+  color: orange; }
+
+#testimonial {
+  background: #c0bcbc;
+  color: green;
+  padding: 50px 0 30px 0;
+  text-align: center;
+  margin-top: 40px; }
+
+.images {
+  width: 200px;
+  height: 200px; }
+
+footer {
+  background: blue;
+  color: black;
+  background-repeat: no-repeat;
+  width: 100%;
+  text-align: center; }
+
+.miNav {
+  background: #ddb5b5;
+  color: yellow; }
+
+.sectionOne {
+  background: lime;
+  color: purple; }
+
+.sectionTwo {
+  background: aqua;
+  color: brown; }
+
+/*# sourceMappingURL=main.css.map */
